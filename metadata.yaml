@@ -1,16 +1,21 @@
 _repo: Pleiades-Club-Year-Book-1910_56423
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Ament, R. S.
     gutenberg_agent_id: '48835'
     url: http://www.gutenberg.org/2009/agents/48835
+covers:
+- cover_type: archival
+  image_path: 56423-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Club, The N.Y. Pleiades
     gutenberg_agent_id: '48834'
     url: http://www.gutenberg.org/2009/agents/48834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56423#Pleiades-Club-Year-Book-1910
 gutenberg_issued: '2018-01-24'
 gutenberg_type: Text
 identifiers:
